@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 # MonsterSlayer
-This is a monster slayer game developed by vue.js to showing the fundermentals of vue.js
+This is a monster slayer game developed by vue.js to demonstrate the fundermentals of vue.js
 
 
-I'm dimingo. I love building utilities aimed at increasing Developer productivity :raised_hands: 
+I'm dimingo. Coding is just a hobby. 
 
 
 
