@@ -11,7 +11,7 @@ I'm dimingo. Coding is just a hobby.
 📫 How to run the project:
 
 -😄 Simply clone the project
--😄 Paste vue cdn link on the index.html file
+-😄 Paste vue cdn link on the index.html file and run the file
 
 
 ---
